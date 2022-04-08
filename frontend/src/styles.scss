@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { 
+  height: 100%;
+  background-image: url(./assets/img/td1.jpg);
+
+}
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.mat-toolbar.mat-accent {
+    background: #ddd;
+   
+  }
+  .mat-flat-button.mat-accent, .mat-raised-button.mat-accent, .mat-fab.mat-accent, .mat-mini-fab.mat-accent {
+    background: #ddd;
+
+  }
+
+  h2{
+    color:white;
+  }
+  marquee{
+    color: white;
+  }
+
+ 
