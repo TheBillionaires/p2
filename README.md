@@ -28,6 +28,10 @@ Note: For development purposes the host is localhost but this will need to be up
 
 ![Screenshot 2022-04-07 002204](https://user-images.githubusercontent.com/102680541/163059763-8dcd6def-1661-4c04-852d-852b97d0f5d2.jpg)
 
+## Set-up Applications
+
+Open travel-backend and springfeatures in Spring Boot Suite. Other files are to be opened in VS Code. 
+
 ## Executive Summary
 
 The Travel Management System is the most secure system available.
